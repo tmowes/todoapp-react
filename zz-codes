@@ -1,0 +1,8 @@
+yarn create react-app ./ --template typescript
+
+yarn upgrade-interactive --latest
+
+yarn add -D eslint-plugin-react @typescript-eslint/eslint-plugin@latest eslint-config-airbnb@latest eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react-hooks @typescript-eslint/parser@latest eslint-import-resolver-typescript prettier eslint-config-prettier eslint-plugin-prettier @types/styled-components @testing-library/dom
+
+yarn add @material-ui/core @material-ui/icons react-query styled-components
+
